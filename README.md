@@ -5,7 +5,7 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 ## Especificación de mi PC
 - **MotherBoard**: [Gigabyte X570 Aorus Elite](https://amzn.to/30KCO2k "Gigabyte X570 Aorus Elite")
 - **Procesador**: [Intel Core i5-3570K](https://amzn.to/3QojjBc "Intel Core i5-3570K")
-- **RAM**: [32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD](https://amzn.to/3JPyWiu "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
+- **RAM**: [Patriot - Memoria de escritorio Viper III DDR3 1866MHz (PC3 15000) CL10 de 16 GB (2 x 8 GB) con disipador de calor Mamba negro - PV316G186C0K](https://amzn.to/3PkapU0 "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
 - **BT / WIFI**: [Fenvi T919 (BCM94360CD)](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
 ## Estructura EFI
 ### Recomendación
