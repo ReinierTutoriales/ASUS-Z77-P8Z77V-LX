@@ -1,10 +1,10 @@
 # Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS BigSur Monterrey y Ventura
-[![ASUS Z77 P8Z77V LX](https://www.asus.com/media/global/products/wUVREuJSCNu0ys0i/P__setting_xxx_0_90_end_300.png "X570 AORUS ELITE")](https://static.gigabyte.com/StaticFile/Image/Global/907eecfe94da125eb443dc223715d8cd/Product/22419/webp/1000 "X570 AORUS ELITE")
+[![ASUS Z77 P8Z77V LX](https://www.asus.com/media/global/products/wUVREuJSCNu0ys0i/P__setting_xxx_0_90_end_300.png "ASUS Z77 P8Z77V LX")](https://static.gigabyte.com/StaticFile/Image/Global/907eecfe94da125eb443dc223715d8cd/Product/22419/webp/1000 "X570 AORUS ELITE")
 ## **Qué contiene este repositorio  👇**
-Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherBoard Gigabyte X570 Aorus Elite.
+Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ i5-3570K  y MotherBoard ASUS Z77 P8Z77V LX.
 ## Especificación de mi PC
 - **MotherBoard**: [Gigabyte X570 Aorus Elite](https://amzn.to/30KCO2k "Gigabyte X570 Aorus Elite")
-- **Procesador**: [Ryzen 5 3600](https://amzn.to/3Ag2N0q "Ryzen 5 3600")
+- **Procesador**: [Intel Core i5-3570K](https://amzn.to/3Qi0AXQ "Intel Core i5-3570K")
 - **RAM**: [32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD](https://amzn.to/3JPyWiu "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
 - **BT / WIFI**: [Fenvi T919 (BCM94360CD)](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
 ## Estructura EFI
