@@ -1,8 +1,7 @@
 # Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS BigSur Monterrey
 [![ASUS Z77 P8Z77V LX](https://www.asus.com/media/global/products/wUVREuJSCNu0ys0i/P__setting_xxx_0_90_end_300.png "ASUS Z77 P8Z77V LX")](https://static.gigabyte.com/StaticFile/Image/Global/907eecfe94da125eb443dc223715d8cd/Product/22419/webp/1000 "ASUS Z77 P8Z77V LX")
 ## **Qué contiene este repositorio  👇**
-
-[![ASUS Z77 P8Z77V LX](https://raw.githubusercontent.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/main/IMG/1.png "ASUS Z77 P8Z77V LX")
+[![ASUS Z77 P8Z77V LX](https://raw.githubusercontent.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/main/IMG/1.png "ASUS Z77 P8Z77V LX")]
 Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ i5-3570K  y MotherBoard ASUS Z77 P8Z77V LX.
 ## Especificación de mi PC
 - **MotherBoard**: [ASUS Z77 P8Z77V LX](https://es.aliexpress.com/item/2255800711296136.html?spm=a2g0o.order_list.0.0.60f3194d9mPlFV&gatewayAdapt=glo2esp4itemAdapt "ASUS Z77 P8Z77V LX")
