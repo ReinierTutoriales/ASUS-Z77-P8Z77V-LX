@@ -22,9 +22,9 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 ## OpenCore
 **Versión**: 0.8.4
 ## ACPI
-- SSDT-PLUG.aml
-- SSDT-USBX.aml
-- SSDT-XHC.aml 
+- SSDT-EC-DESKTOP.aml
+- SSDT-IMEI.aml
+- SSDT-PM.aml
 ## Drivers
 - HfsPlus.efi
 - OpenCanopy.efi
