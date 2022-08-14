@@ -21,6 +21,7 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 [Consulte la descripción del autor para obtener más información.](https://github.com/AMD-OSX/AMD_Vanilla#instructions "Consulte la descripción del autor para obtener más información.")
 ## OpenCore
 **Versión**: 0.8.4
+[![Opencore 0.8.4](https://raw.githubusercontent.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/main/IMG/2.png "Opencore 0.8.4")]
 ## ACPI
 - SSDT-EC-DESKTOP.aml
 - SSDT-IMEI.aml
