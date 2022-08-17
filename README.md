@@ -5,8 +5,8 @@
 Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ i5-3570K  y MotherBoard ASUS Z77 P8Z77V LX.
 ## Especificación de mi PC
 - **MotherBoard**: [ASUS Z77 P8Z77V LX](https://s.click.aliexpress.com/e/_DlDU4WT "ASUS Z77 P8Z77V LX")
-- **Procesador**: [Intel Core i5-3570K](https://amzn.to/3QojjBc "Intel Core i5-3570K")
-- **RAM**: [Patriot - Memoria de escritorio Viper III DDR3 1866MHz (PC3 15000) CL10 de 16 GB (2 x 8 GB) con disipador de calor Mamba negro - PV316G186C0K](https://amzn.to/3PkapU0 "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
+- **Procesador**: [Intel Core i5-3570K](https://s.click.aliexpress.com/e/_DmPfRG7 "Intel Core i5-3570K")
+- **RAM**: [Fury Hyperx - Memoria de escritorio Viper III DDR3 1866MHz (2 x 8 GB) con disipador de calor ](https://s.click.aliexpress.com/e/_DBjbTeR "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
 - **BT / WIFI**: [Fenvi T919 (BCM94360CD)](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
 ## Estructura EFI
 ### Recomendación
