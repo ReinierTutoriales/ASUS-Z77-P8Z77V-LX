@@ -61,10 +61,8 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 - La entrada de micrófono en el panel frontal / posterior no funciona.
 - No he probado la entrada / salida de línea y la salida digital.
 - Los problemas habituales de Ryzentosh. Consulte la parte de soporte de CPU de la Guía OpenCore de Dortania
-- Es posible que sea necesario parchear aplicaciones profesionales específicas para procesadores AMD, como aplicaciones de Adobe, Davinci Resolve, etc.
-- La virtualización (Apple Hypervisor y las aplicaciones que usan esto como AVD en Android Studio, Parallels) no funciona, pero VirtualBox sí.
 ### No funciona
-- Sidecar
+- 
 ## Referencias
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
 - [forum ReinierTutoriales](https://forum.softgameplus.com/ "forum ReinierTutoriales")
