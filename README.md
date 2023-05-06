@@ -6,6 +6,17 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 
 ![ASUS Z77 P8Z77V LX](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/4.png "ASUS Z77 P8Z77V LX")
 ## Especificación de mi PC
+
+| Specificaciones     | Detalles                                   |
+| ------------------- | -------------------------------------------|
+| Motherboard         | ASUS-Z77-P8Z77V-LX                         |
+| Procesador          | Intel Core intel i5 3570k                  |
+| Memoria RAM         | 16GB/4GB DDR3 1600MHz                      |
+| Discp Duro          | SSD Crucial MX500 240GB                    |
+| Gráficos Integrados | Intel HD 4000                              |
+| Audio               | Realtek ALC255                             |
+| Red-Ethernet        | Intel(R) Wireless-AC 7265                  |
+
 - **MotherBoard**: [ASUS Z77 P8Z77V LX](https://s.click.aliexpress.com/e/_DlDU4WT "ASUS Z77 P8Z77V LX")
 - **Procesador**: [Intel Core i5-3570K](https://s.click.aliexpress.com/e/_DmPfRG7 "Intel Core i5-3570K")
 - **RAM**: [Fury Hyperx - Memoria de escritorio Viper III DDR3 1866MHz (2 x 8 GB) con disipador de calor ](https://s.click.aliexpress.com/e/_DBjbTeR "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
