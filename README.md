@@ -9,7 +9,6 @@
 ## **Qué contiene este repositorio  👇**
 Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ i5-3570K  y MotherBoard ASUS Z77 P8Z77V LX.
 
-![ASUS Z77 P8Z77V LX](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/P8Z77-V%20LX.png)
 
 ## Especificaciones
 
