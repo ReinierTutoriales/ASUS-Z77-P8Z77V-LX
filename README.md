@@ -20,7 +20,7 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 
 - **MotherBoard**: ASUS Z77 P8Z77V LX [💵Compr Aquí👉](https://s.click.aliexpress.com/e/_DEav2bR)
 - **Procesador**: Intel Core i5-3570K [💵Compr Aquí👉](https://s.click.aliexpress.com/e/_DezOy29) 
-- **RAM**: [Fury Hyperx - Memoria de escritorio Viper III DDR3 1866MHz (2 x 8 GB) con disipador de calor ](https://s.click.aliexpress.com/e/_DBjbTeR "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
+- **RAM**: 2x8GB Fury Hyperx Viper III DDR3 1866MHz [💵Compr Aquí👉](https://s.click.aliexpress.com/e/_Ddspq81)
 - **BT / WIFI**: [Fenvi T919 (BCM94360CD)](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
 ## Estructura EFI
 ### Recomendación
