@@ -10,7 +10,6 @@
 Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ i5-3570K  y MotherBoard ASUS Z77 P8Z77V LX.
 
 
-
 ## Especificaciones
 
 | Especificaciones     | Detalles                                  |
