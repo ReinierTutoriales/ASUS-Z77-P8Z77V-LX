@@ -18,10 +18,10 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 | Audio               | Realtek ALC255                             |
 | Red-Ethernet        | Realtek RTL8111                            |
 
-- **MotherBoard**: ASUS Z77 P8Z77V LX [💵Compr Aquí👉](https://s.click.aliexpress.com/e/_DEav2bR)
-- **Procesador**: Intel Core i5-3570K [💵Compr Aquí👉](https://s.click.aliexpress.com/e/_DezOy29) 
-- **RAM**: 2x8GB Fury Hyperx Viper III DDR3 1866MHz [💵Compr Aquí👉](https://s.click.aliexpress.com/e/_Ddspq81)
-- **BT / WIFI**: [Fenvi T919 (BCM94360CD)](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
+- **MotherBoard**: ASUS Z77 P8Z77V LX [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_DEav2bR)
+- **Procesador**: Intel Core i5-3570K [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_DezOy29) 
+- **RAM**: 2x8GB Fury Hyperx Viper III DDR3 1866MHz [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_Ddspq81)
+- **BT / WIFI**: Fenvi T919 (BCM94360CD) [👉Compr Aquí💵](https://amzn.to/3w3fkBX)
 ## Estructura EFI
 ### Recomendación
 - Te recomiendo que uses esto solo como un recurso de referencia.
