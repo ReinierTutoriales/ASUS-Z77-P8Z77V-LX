@@ -2,7 +2,7 @@
 
 
 
-![ASUS Z77 P8Z77V LX](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/hd4000.png)
+![ASUS Z77 P8Z77V LX](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/1.png)
 
 
 
@@ -40,6 +40,8 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 [Consulte la descripción del autor para obtener más información.](https://github.com/AMD-OSX/AMD_Vanilla#instructions "Consulte la descripción del autor para obtener más información.")
 ## OpenCore
 **Versión**: 0.9.2
+
+![OpenCore](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/2.png)
 
 
 ## ACPI
