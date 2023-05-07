@@ -29,6 +29,7 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 - **BT / WIFI**: Fenvi T919 (BCM94360CD) [👉Compr Aquí💵](https://amzn.to/3w3fkBX)
 ## Estructura EFI
 ### Recomendación
+- Para instalar macOS 13 Ventura es necesario instalar antes Big Sur o Monterrey y Actualizar desde ahí.
 - Te recomiendo que uses esto solo como un recurso de referencia.
 - Este EFI contiene kexts adicionales en config.plist en lugar de solo las cosas esenciales para la ASUS Z77 P8Z77V LX. Debe eliminarlos antes de usar esto en su PC.
 
