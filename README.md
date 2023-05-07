@@ -1,9 +1,11 @@
 # Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 13 Ventura
+
 [![ASUS Z77 P8Z77V LX](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/hd4000.png)
+
 ## **Qué contiene este repositorio  👇**
 Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ i5-3570K  y MotherBoard ASUS Z77 P8Z77V LX.
 
-![ASUS Z77 P8Z77V LX](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/4.png "ASUS Z77 P8Z77V LX")
+
 
 ## Especificaciones
 
