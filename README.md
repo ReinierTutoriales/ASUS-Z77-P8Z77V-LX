@@ -27,7 +27,7 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 - **Procesador**: Intel Core i5-3570K [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_DezOy29) 
 - **RAM**: 2x8GB Fury Hyperx Viper III DDR3 1866MHz [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_Ddspq81)
 - **BT / WIFI**: Fenvi T919 (BCM94360CD) [👉Compr Aquí💵](https://amzn.to/3w3fkBX)
-## Estructura EFI
+
 ### Recomendación
 - Para instalar macOS 13 Ventura es necesario instalar antes Big Sur o Monterrey y Actualizar desde ahí.
 - Te recomiendo que uses esto solo como un recurso de referencia.
@@ -42,7 +42,7 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 
 ![OpenCore](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/2.png)
 
-
+### Estructura EFI
 ## ACPI
 - SSDT-EC-DESKTOP.aml
 - SSDT-IMEI.aml
