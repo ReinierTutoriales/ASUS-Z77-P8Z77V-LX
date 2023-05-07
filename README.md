@@ -1,4 +1,4 @@
-# Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 13 Ventura
+# Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 11 Big Sur, macOS 12 Monterrey y macOS 13 Ventura
 
 
 
