@@ -77,5 +77,5 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 - 
 ## Referencias
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
-- [forum ReinierTutoriales](https://forum.softgameplus.com/ "forum ReinierTutoriales")
+- [forum ReinierTutoriales](https://www.reiniertutoriales.com)
 😎
