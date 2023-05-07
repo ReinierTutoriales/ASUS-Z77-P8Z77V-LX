@@ -1,7 +1,7 @@
 # Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 13 Ventura
 
 
-(https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/hd4000.png)
+[(https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/hd4000.png)]
 
 
 ## **Qué contiene este repositorio  👇**
