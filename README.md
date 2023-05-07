@@ -39,9 +39,9 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos de núcleos de CPU en los algrey - Force cpuid_cores_per_packagenodos. Actualmente, mi configuración de EFI establece para el modelo de CPU de 6 núcleos porque estoy usando Ryzen 5 3600.
 [Consulte la descripción del autor para obtener más información.](https://github.com/AMD-OSX/AMD_Vanilla#instructions "Consulte la descripción del autor para obtener más información.")
 ## OpenCore
-**Versión**: 0.8.4
+**Versión**: 0.9.2
 
-![Opencore 0.8.4](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/6.png?raw=true "Opencore 0.8.4")
+
 ## ACPI
 - SSDT-EC-DESKTOP.aml
 - SSDT-IMEI.aml
