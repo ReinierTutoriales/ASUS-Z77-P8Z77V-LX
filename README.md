@@ -55,11 +55,8 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 - ResetNvramEntry.efi
 - ToggleSipEntry.efi
 ## Kexts
-- AirportItlwm.kext
 - AppleALC.kext
-- AppleMCEReporterDisabler.kext
-- BlueToolFixup.kext
-- IntelBluetoothFirmware.kext
+- CryptexFixup.kext
 - Lilu.kext
 - RealtekRTL8111.kext
 - RestrictEvents.kext
