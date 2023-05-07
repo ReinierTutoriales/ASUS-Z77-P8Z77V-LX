@@ -1,4 +1,4 @@
-# Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS BigSur Monterrey
+# Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 13 Ventura
 [![ASUS Z77 P8Z77V LX](https://www.asus.com/media/global/products/wUVREuJSCNu0ys0i/P__setting_xxx_0_90_end_300.png "ASUS Z77 P8Z77V LX")](https://raw.githubusercontent.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/main/IMG/1.png "ASUS Z77 P8Z77V LX")
 ## **Qué contiene este repositorio  👇**
 ![ASUS Z77 P8Z77V LX](https://raw.githubusercontent.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/main/IMG/1.png "ASUS Z77 P8Z77V LX")
