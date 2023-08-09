@@ -19,13 +19,13 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 
 | Especificaciones     | Detalles                                  |
 | ------------------- | -------------------------------------------|
-| Motherboard         | ASUS-Z77-P8Z77V-LX                         |
-| Procesador          | Intel Core intel i5 3570k                  |
-| Memoria RAM         | 16GB/4GB DDR3 1600MHz                      |
-| Disco Duro          | SSD Crucial MX500 240GB                    |
-| Gráficos Integrados | Intel HD 4000                              |
-| Audio               | Realtek ALC255                             |
-| Red-Ethernet        | Realtek RTL8111                            |
+| Motherboard         |  `ASUS-Z77-P8Z77V-LX`                      |
+| Procesador          | Intel Core intel `i5 3570k`                |
+| Memoria RAM         | `16GB`/`4GB` DDR3 1600MHz                  |
+| Disco Duro          | SSD Crucial MX500 `240GB`                  |
+| Gráficos Integrados | Intel  `HD 4000`                           |
+| Audio               | Realtek `ALC255`                           |
+| Red-Ethernet        | Realtek `RTL8111`                          |
 
 - **MotherBoard**: ASUS Z77 P8Z77V LX [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_DEav2bR)
 - **Procesador**: Intel Core i5-3570K [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_DezOy29) 
