@@ -4,6 +4,11 @@
 
 ![ASUS Z77 P8Z77V LX](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/1.png)
 
+[![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/topic/96-iso-booteable-de-macos-ventura-1351/)
+[![Static Badge](https://img.shields.io/badge/OpenCore-0.9.5-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-2bbda9d/OpenCore-0.9.5-RELEASE.zip)
+[![GitHub issues](https://img.shields.io/github/issues/ReinierTutoriales/EFI-Ryzentosh)](https://github.com/ReinierTutoriales/EFI-Ryzentosh/issues)
+
+
 
 
 ## Apóyame con una donación 
