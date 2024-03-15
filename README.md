@@ -1,4 +1,4 @@
-# Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 11 Big Sur, macOS 12 Monterrey y macOS 13 Ventura
+# Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 11 Big Sur, macOS 12 Monterrey, macOS 13 Ventura y macOS 14 Sonoma
 
 <img src="https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/1.png" width="650"/>
 
@@ -45,7 +45,7 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 
 
 ## OpenCore
-**Versión**: 0.9.2
+**Versión**: 1.0.0
 
 ![OpenCore](https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/2.png)
 
