@@ -1,6 +1,6 @@
 # Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 11 Big Sur, macOS 12 Monterrey, macOS 13 Ventura y macOS 14 Sonoma
 
-<img src="https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX/blob/main/IMG/1.png" width="650"/>
+![macOS Sonoma](IMG/1.png)
 
 [![Static Badge](https://img.shields.io/badge/macOS-Ventura-blue)](https://www.reiniertutoriales.com/topic/96-iso-booteable-de-macos-ventura-1351/)
 [![Static Badge](https://img.shields.io/badge/OpenCore-0.9.5-green)](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-2bbda9d/OpenCore-0.9.5-RELEASE.zip)
