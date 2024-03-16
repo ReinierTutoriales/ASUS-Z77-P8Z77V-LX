@@ -79,15 +79,8 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 ## Que funciona y que no funciona
 ### Finciona
 - Casi todo, incluida las actualizaciones de Apple (Handoff, iMessage, Airdrop, Facetime, ...)
-### Funciona parcialmente
-- Tomas de audio de 3,5 mm
-- La salida de altavoz en el panel frontal / posterior funciona.
-- La entrada de micrófono en el panel frontal / posterior no funciona.
-- No he probado la entrada / salida de línea y la salida digital.
-- Los problemas habituales de Ryzentosh. Consulte la parte de soporte de CPU de la Guía OpenCore de Dortania
-### No funciona
-- 
+ 
 ## Referencias
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
-- [forum ReinierTutoriales](https://www.reiniertutoriales.com)
+- [Blog ReinierTutoriales](https://www.reiniertutoriales.com)
 😎
