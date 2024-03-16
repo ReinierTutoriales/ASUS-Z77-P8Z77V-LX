@@ -51,18 +51,18 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 
 ![OpenCore 1.0.0](IMG/2.png)
 
-### Estructura EFI
-## ACPI
+## Estructura EFI
+# ACPI
 - SSDT-EC-DESKTOP.aml
 - SSDT-IMEI.aml
 - SSDT-PM.aml
-## Drivers
+# Drivers
 - HfsPlus.efi
 - OpenCanopy.efi
 - OpenRuntime.efi
 - ResetNvramEntry.efi
 - ToggleSipEntry.efi
-## Kexts
+# Kexts
 - AppleALC.kext
 - CryptexFixup.kext
 - Lilu.kext
@@ -73,12 +73,12 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 - USBInjectAll.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
-## Tools
+# Tools
 - OpenShell.efi
 - ResetSystem.efi
-## Que funciona y que no funciona
-### Finciona
-- Casi todo, incluida las actualizaciones de Apple (Handoff, iMessage, Airdrop, Facetime, ...)
+
+### Que Finciona
+- Casi todo, incluida las actualizaciones de Apple (Handoff, iMessage, Airdrop, Facetime)
  
 ## Referencias
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
