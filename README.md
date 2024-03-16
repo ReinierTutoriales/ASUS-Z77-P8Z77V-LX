@@ -11,12 +11,12 @@
 
 
 
-## Apóyame con una donación 
+# Apóyame con una donación 
 Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?country.x=US&locale.x=es_XC)
 
 
 
-## **Qué contiene este repositorio  👇**
+# **Qué contiene este repositorio  👇**
 Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ i5-3570K  y MotherBoard ASUS Z77 P8Z77V LX.
 
 
@@ -37,32 +37,31 @@ Este repositorio contiene el directorio EFI para el combo Intel Intel® Core™ 
 - **RAM**: 2x8GB Fury Hyperx Viper III DDR3 1866MHz [👉Compr Aquí💵](https://s.click.aliexpress.com/e/_Ddspq81)
 - **BT / WIFI**: Fenvi T919 (BCM94360CD) [👉Compr Aquí💵](https://amzn.to/3w3fkBX)
 
-### Recomendación
-- Para instalar macOS 13 Ventura es necesario instalar antes Big Sur o Monterrey y Actualizar desde ahí.
+# Recomendación
 - Te recomiendo que uses esto solo como un recurso de referencia.
 - Este EFI contiene kexts adicionales en config.plist en lugar de solo las cosas esenciales para la ASUS Z77 P8Z77V LX. Debe eliminarlos antes de usar esto en su PC.
 
-### Verifique esto antes de usar
+# Verifique esto antes de usar
 En el archivo config.plist , genere códigos de serie nuevos ya que este carece de ellos, pues son personales y cada Mac necesita los de ella propios. Para generar la clave de serie, consulte la Guía OpenCore de Dortania . Cuando genere uno, debe seleccionar MacPro7,1 para un correcto funcionamiento.
 
 
-## OpenCore
+# OpenCore
 **Versión**: 1.0.0
 
 ![OpenCore 1.0.0](IMG/2.png)
 
-## Estructura EFI
-# ACPI
+# Estructura EFI
+## ACPI
 - SSDT-EC-DESKTOP.aml
 - SSDT-IMEI.aml
 - SSDT-PM.aml
-# Drivers
+## Drivers
 - HfsPlus.efi
 - OpenCanopy.efi
 - OpenRuntime.efi
 - ResetNvramEntry.efi
 - ToggleSipEntry.efi
-# Kexts
+## Kexts
 - AppleALC.kext
 - CryptexFixup.kext
 - Lilu.kext
@@ -73,14 +72,14 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 - USBInjectAll.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
-# Tools
+## Tools
 - OpenShell.efi
 - ResetSystem.efi
 
-### Que Finciona
+# Que Finciona
 - Casi todo, incluida las actualizaciones de Apple (Handoff, iMessage, Airdrop, Facetime)
  
-## Referencias
+# Referencias
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
 - [Blog ReinierTutoriales](https://www.reiniertutoriales.com)
 😎
