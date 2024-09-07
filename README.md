@@ -46,9 +46,7 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 
 
 # OpenCore
-**Versión**: 1.0.0
-
-![OpenCore 1.0.0](IMG/2.png)
+**Versión**: 1.0.2
 
 # Estructura EFI
 ## ACPI
