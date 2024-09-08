@@ -60,16 +60,21 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 - ResetNvramEntry.efi
 - ToggleSipEntry.efi
 ## Kexts
+- AMFIPass.kext
 - AppleALC.kext
+- AppleIntelCPUPowerManagement.kext
+- AppleIntelCPUPowerManagementClient.kext
 - CryptexFixup.kext
 - Lilu.kext
 - RealtekRTL8111.kext
 - RestrictEvents.kext
 - SMCProcessor.kext
 - SMCSuperIO.kext
-- USBInjectAll.kext
+- USBToolBox.kext
+- UTBMap.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
+
 ## Tools
 - OpenShell.efi
 - ResetSystem.efi
