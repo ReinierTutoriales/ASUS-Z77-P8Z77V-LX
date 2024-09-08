@@ -1,5 +1,4 @@
-# Bienvenido al repositorio oficial de ReinierTutoriales Compatible con macOS 11 Big Sur, macOS 12 Monterrey, macOS 13 Ventura, macOS 14 Sonoma y macOS 15 Sequoia
-
+# Bienvenido al repositorio oficial de ReinierTutoriales compatible con macOS 11 Big Sur, macOS 12 Monterrey, macOS 13 Ventura, macOS 14 Sonoma y macOS 15 Sequoia.
 
 ![macOS Sonoma](IMG/1.png)
 
